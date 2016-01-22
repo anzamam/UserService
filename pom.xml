@@ -39,7 +39,7 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>0.5.3</version>
 				<configuration>
-					<appName>tranquil-brook-2490</appName>
+					<appName>app_name</appName>
 				</configuration>
 			</plugin>
 			<plugin>
